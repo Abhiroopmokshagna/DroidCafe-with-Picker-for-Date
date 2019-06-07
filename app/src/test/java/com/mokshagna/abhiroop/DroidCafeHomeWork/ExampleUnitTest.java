@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.droidcafe;
+package com.mokshagna.abhiroop.DroidCafeHomeWork;
 
 import org.junit.Test;
 

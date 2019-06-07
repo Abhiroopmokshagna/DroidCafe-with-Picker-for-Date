@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.droidcafe;
+package com.mokshagna.abhiroop.DroidCafeHomeWork;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

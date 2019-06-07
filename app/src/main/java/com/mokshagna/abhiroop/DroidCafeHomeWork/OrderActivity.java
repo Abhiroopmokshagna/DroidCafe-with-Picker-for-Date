@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.droidcafe;
+package com.mokshagna.abhiroop.DroidCafeHomeWork;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
