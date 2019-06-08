@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.DroidCafeHomeWork;
+package com.mokshagna.abhiroop.DroidCafeInputControls;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

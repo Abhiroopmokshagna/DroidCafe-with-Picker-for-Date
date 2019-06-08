@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.DroidCafeHomeWork;
+package com.mokshagna.abhiroop.DroidCafeInputControls;
 
 import org.junit.Test;
 
