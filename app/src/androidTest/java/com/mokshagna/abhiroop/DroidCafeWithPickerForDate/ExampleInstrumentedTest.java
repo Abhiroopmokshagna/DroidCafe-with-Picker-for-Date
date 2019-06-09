@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.DroidCafeInputControls;
+package com.mokshagna.abhiroop.DroidCafeWithPickerForDate;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

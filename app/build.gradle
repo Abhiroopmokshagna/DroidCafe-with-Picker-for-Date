@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.mokshagna.abhiroop.DroidCafeInputControls"
+        applicationId "com.mokshagna.abhiroop.DroidCafeWithPickerForDate"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1

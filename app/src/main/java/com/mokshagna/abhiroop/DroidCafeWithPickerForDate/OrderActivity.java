@@ -1,5 +1,6 @@
-package com.mokshagna.abhiroop.DroidCafeInputControls;
+package com.mokshagna.abhiroop.DroidCafeWithPickerForDate;
 
+import android.support.v4.app.DialogFragment;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -68,5 +69,15 @@ public class OrderActivity extends AppCompatActivity implements AdapterView.OnIt
     @Override
     public void onNothingSelected(AdapterView<?> parent) {
         
+    }
+
+    public void showDatePicker(View view) {
+        DialogFragment newFragment = new DatePickerFragment();
+        newFragment.show(getSupportFragmentManager(),"DatePicker");
+    }
+
+    public void processDateSet(int year,int month,int day){
+        String message = "You selected: "+day+"/"+month+"/"+year;
+        Toast.makeText(this,message,Toast.LENGTH_SHORT).show();
     }
 }
